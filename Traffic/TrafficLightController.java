@@ -25,6 +25,4 @@ public class TrafficLightController implements Runnable {
         }
     }
 }
-awdkhbdf
-asfadsbfjhbsaf
-asfasf
+
